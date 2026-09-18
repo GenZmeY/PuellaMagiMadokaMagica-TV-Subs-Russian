@@ -2,7 +2,7 @@
 
 Субтитры для BD версии сериала Puella Magi Madoka Magica.
 
-Основано на субтитрах от [DreamersTeam].
+Основано на субтитрах от [DreamersTeam](https://vk.ru/dreamersteam).
 
 Что изменено:
 - основным персонажам добавлен индивидуальный стиль текста;
